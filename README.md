@@ -71,27 +71,7 @@ The project covers different Nodejs, Express, MongoDB & JWT Topics and implement
 |    |—— userRoutes.js
 |—— server.js
 ```
-```
-|—— .env
-|—— .gitignore
-|—— config
-|    |—— dbConnection.js
-|—— constants.js
-|—— controllers
-|    |—— contactController.js
-|—— middleware
-|    |—— errorHandeler.js
-|—— models
-|    |—— contactModel.js
-|—— node_modules
-|    
-|—— package-lock.json
-|—— package.json
-|—— README.md
-|—— routes
-|    |—— contactRoutes.js
-|—— server.js
-```
+
 
 
  ## References
