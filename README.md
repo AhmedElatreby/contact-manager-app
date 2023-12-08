@@ -45,7 +45,32 @@ The project covers different Nodejs, Express, MongoDB & JWT Topics and implement
   ```
 
 
+
 ## Directory Hierarchy
+```
+|—— .env
+|—— .gitignore
+|—— config
+|    |—— dbConnection.js
+|—— constants.js
+|—— controllers
+|    |—— contactController.js
+|    |—— userController.js
+|—— middleware
+|    |—— errorHandeler.js
+|    |—— validateTokenHandler.js
+|—— models
+|    |—— contactModel.js
+|    |—— userModel.js
+|—— node_modules
+|—— package-lock.json
+|—— package.json
+|—— routes
+|    |—— contactRoutes.js
+|    |—— README.md
+|    |—— userRoutes.js
+|—— server.js
+```
 ```
 |—— .env
 |—— .gitignore
